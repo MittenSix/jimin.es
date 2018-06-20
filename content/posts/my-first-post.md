@@ -3,7 +3,7 @@ title: "Testing My First Post"
 date: 2018-06-20T13:26:06-07:00
 title: My First Post
 date: 2018-06-20 20:26:06 +0000
-draft: true
+draft: false
 
 ---
 ## This is a test using Forestry.io
