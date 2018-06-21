@@ -1,7 +1,7 @@
 baseURL = "https://jimin.es"
 languageCode = "en-us"
-title = "Benjamin Jimines"
 theme = "hugo-nuo"
+title = "Benjamin Jimines"
 
 enableRobotsTXT = true
 PygmentsCodeFences = true
@@ -43,7 +43,6 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   github = "github_username"
   twitter = "twitter_username"
   linkedin = "linkedin_username"
-  weibo = "weibo_username"
   wechat= "/img/qrcode.jpg" # Replace with your wechat qrcode image
   # facebook = "facebook_username"
   # google = "googlplus_id_number"
@@ -57,6 +56,4 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   # behance = "behance_username"
   # jsfiddle = "jsfiddle_username"
   # codepen = "codepen_username"
-  # zhihu = "zhihu_username"
-  # douban = "douban_username"
-  # bilibili = "bilibili_id_number"
+
